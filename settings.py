@@ -1,0 +1,10 @@
+WIDTH = 500
+HEIGHT = 600
+FPS = 60
+
+PLAYER_SIZE = 40
+ENEMY_SIZE = 40
+
+PLAYER_SPEED = 6
+INITIAL_ENEMY_SPEED = 4 # do not increase 
+INITIAL_SPAWN_RATE = 20  # lower = harder
