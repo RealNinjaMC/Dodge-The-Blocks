@@ -8,3 +8,6 @@ ENEMY_SIZE = 40
 PLAYER_SPEED = 6
 INITIAL_ENEMY_SPEED = 4 # do not increase 
 INITIAL_SPAWN_RATE = 20  # lower = harder
+
+PLAYER_MAX_HEALTH = 3
+HIGHSCORE_FILE = "highscore.txt"
